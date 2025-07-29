@@ -13,7 +13,6 @@
 
 - 🎓 **B.Tech Computer Science Engineering** at MAIT, New Delhi (CGPA: 9.202/10)
 - 💼 **Full-Stack Developer Intern** at Adroid Connetz Private Limited (May 2024 - May 2025)
-- 🌱 Learning **Advanced DSA**, **System Design**, and **Core Computer Science Concepts**
 - 💡 Passionate about building **scalable web applications** and **efficient backend systems**
 - 📊 Achieved **2,000+ page views** and **100+ active users** on Adroid CMS
 - ⚡ Optimized application performance by **33.2%** using Next.js and RTK Query
